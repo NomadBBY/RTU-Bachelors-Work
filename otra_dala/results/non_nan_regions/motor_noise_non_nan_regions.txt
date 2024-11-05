@@ -1,0 +1,12 @@
+From 1687.50 Hz to 3750.00 Hz
+From 6000.00 Hz to 6937.50 Hz
+From 9187.50 Hz to 10875.00 Hz
+From 13125.00 Hz to 14812.50 Hz
+From 17062.50 Hz to 18937.50 Hz
+From 21187.50 Hz to 22687.50 Hz
+From 24937.50 Hz to 26812.50 Hz
+From 29062.50 Hz to 30937.50 Hz
+From 33187.50 Hz to 34875.00 Hz
+From 37125.00 Hz to 38812.50 Hz
+From 41062.50 Hz to 41812.50 Hz
+From 44062.50 Hz to 45750.00 Hz
